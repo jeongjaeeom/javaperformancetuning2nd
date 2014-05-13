@@ -1,0 +1,1 @@
+java -jar target/microbenchmarks.jar .*%1.* -i 10 -r 3s > log/%1.log 
